@@ -1,0 +1,9 @@
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\bin\Debug\BulkInsert.Repo.dll.config
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\bin\Debug\BulkInsert.Repo.dll
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\bin\Debug\BulkInsert.Repo.pdb
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\bin\Debug\EntityFramework.dll
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\bin\Debug\EntityFramework.xml
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\obj\Debug\BulkInsert.Repo.dll
+D:\Projects\Web\BulkInsert\BulkInsert.Repo\obj\Debug\BulkInsert.Repo.pdb

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkInsert.Domain", "BulkInsert.Domain\BulkInsert.Domain.csproj", "{F5534B74-285C-4D30-BCA3-9D151BDEF811}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkInsert.Repo", "BulkInsert.Repo\BulkInsert.Repo.csproj", "{2E3B8C43-CF2B-47BC-9731-75790170E464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{F5534B74-285C-4D30-BCA3-9D151BDEF811}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5534B74-285C-4D30-BCA3-9D151BDEF811}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5534B74-285C-4D30-BCA3-9D151BDEF811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3B8C43-CF2B-47BC-9731-75790170E464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3B8C43-CF2B-47BC-9731-75790170E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3B8C43-CF2B-47BC-9731-75790170E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3B8C43-CF2B-47BC-9731-75790170E464}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,4 @@
+D:\Projects\Web\BulkInsert\BulkInsert.Domain\bin\Debug\BulkInsert.Domain.dll
+D:\Projects\Web\BulkInsert\BulkInsert.Domain\bin\Debug\BulkInsert.Domain.pdb
+D:\Projects\Web\BulkInsert\BulkInsert.Domain\obj\Debug\BulkInsert.Domain.dll
+D:\Projects\Web\BulkInsert\BulkInsert.Domain\obj\Debug\BulkInsert.Domain.pdb
