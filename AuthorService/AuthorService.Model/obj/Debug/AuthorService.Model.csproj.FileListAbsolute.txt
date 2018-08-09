@@ -1,0 +1,15 @@
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\AuthorService.Model.dll
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\AuthorService.Model.pdb
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\obj\Debug\AuthorService.Model.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\obj\Debug\AuthorService.Model.dll
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\obj\Debug\AuthorService.Model.pdb
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\DnsClient.dll
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\MongoDB.Bson.dll
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\MongoDB.Driver.dll
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\System.Buffers.dll
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\DnsClient.xml
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\MongoDB.Bson.xml
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\MongoDB.Driver.xml
+c:\users\admin\source\repos\AuthorService\AuthorService.Model\bin\Debug\MongoDB.Driver.Core.xml
